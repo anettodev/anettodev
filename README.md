@@ -13,8 +13,11 @@ Tools, languages, and other things that I like to work with.
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 
-
+<a href="#"><img src="https://komarev.com/ghpvc/?username=acalbuquerque&color=007EEF&label=Profile%20Views"></a>
 <!--
+## 🚀 Github Stats 
+<img src="https://github-readme-stats.vercel.app/api?username=acalbuquerque&count_private=true&hide_border=true&title_color=FF5600&icon_color=FF5600&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acalbuquerque&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
+
 **acalbuquerque/acalbuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
