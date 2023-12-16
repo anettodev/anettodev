@@ -11,8 +11,7 @@ Tools, languages, and other things that I like to work with.
 ![Swift](https://img.shields.io/badge/-swift-000000?style=flat&logo=swift&logoColor=F05032&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python&labelColor=ffffff)
 ![cplusplus](https://img.shields.io/badge/-c++-000000?style=flat&logo=cplusplus&logoColor=000&labelColor=ffffff)
-![csharp](https://img.shields.io/badge/-CSharp-000000&style=flat&logo=csharp&logoColor=green&labelColor=white)
-
+![csharp](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&labelColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 
